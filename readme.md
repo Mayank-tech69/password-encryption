@@ -15,9 +15,9 @@
 </ul>
 <h2>Usage</h2>
 <ol>
-<li>Clone the repository: <code>git clone (link unavailable)</code></li>
-<li>Navigate to the project directory: <code>cd rsa-encryption</code></li>
-<li>Run the code: <code>python (link unavailable)</code></li>
+<li>Clone the repository: <code>git clone https://github.com/Mayank-tech69/password-encryption.git</code></li>
+<li>Navigate to the project directory</li>
+<li>Run the code</li>
 <li>Follow the prompts to encrypt and decrypt a file</li>
 </ol>
 <h2>License</h2>
