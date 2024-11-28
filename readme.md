@@ -21,6 +21,6 @@
 <li>Follow the prompts to encrypt and decrypt a file</li>
 </ol>
 <h2>License</h2>
-<p>This project is licensed under the MIT License. See the <a href="LICENSE">LICENSE</a> file for details.</p>
+<p>This project is licensed under the MIT License.</p>
 <h2>Contributing</h2>
 <p>Contributions are welcome! Please submit a pull request with your changes.</p>
